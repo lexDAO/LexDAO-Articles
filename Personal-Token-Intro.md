@@ -8,6 +8,8 @@ tags: Posts
 
 One of our underlying goals at LexDAO is to develop a library of Web 3 tools we stand behind. Today we're launching the new version of https://lexdao.org and our first "certified" dApp, a personal token factory. Visit the site to learn more about LexDAO, and othewise.... on to the personal tokens!
 
+![](https://i.imgur.com/ViNTezq.png)
+
 
 ## Why Personal Tokens?
 
@@ -15,11 +17,9 @@ People and their business relationships are pretty much all online these days. B
 
 Imagine if you could turn yourself into a vending machine on the internet. You could retain complete control over how you price your time or let the market determine how much your minute is worth. Your pricing was completely in your control. That's the hype behind the "Personal Token" everyone has been talking about.
 
-
 A Personal Token is basically an offer to provide consulting services to people who redeem them. The goal is to map readily onto different ways of thinking about the relationship. With tokens we can ultimately take part in markets that reflect dealings over time, and capture the value inherent in possible network effects.
 
 Built on Web 3, these tokens are true digital property that can be sent anywhere in the world and never copied. Built by a bunch of legal engineers, so you can trust them to be legally predictable.
-
 
 ## Legal Predictability & Built in Protections or, "Why should I use your version?"
 
@@ -60,10 +60,18 @@ We built this. We keep it ship shape. You can throw us a .0009 ETH bone, no?d
 1. Install [Metamask](https://metamask.io/download.html)
 2. Go to [LexDAO Token Factory](https://lexdao.org/#/personal-token)
 3. Connect Metamask with the "Connect Wallet" button.
+
+![](https://i.imgur.com/L99k4RC.png)
+
+
+4. If you have any trouble with this you can always reach a LexDAO member to help at http://lexdao.chat
  
 ### Name Your Token
 
 The second step is the hardest, naming your token and selecting a token ticker symbol. We suggest your name and initials, for clarity. But go crazy with it, if you want.
+
+![](https://i.imgur.com/KpgjvUg.png)
+
 
 ### (Optional)
 
@@ -71,6 +79,6 @@ If you already have a TOS or Consulting Agreement you use, put in link to the do
 
 Also, you might want to associate an email with your issuance. It's not required, but if you include it we'll add you to internal directy. (See the post on the the page for why this ight matter, hint: it's legal stuff.
 
-The video below shows how you can do all this in literally a minute or two.
+![](https://i.imgur.com/ULBFSn4.png)
 
-[Video Here]
+
