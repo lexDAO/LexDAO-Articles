@@ -6,7 +6,7 @@ tags: Posts
 
 ![](https://i.imgur.com/oHjFnpI.png)
 
-One of our underlying goals at LexDAO is to develop a library of Web 3 tools we stand behind. Today we're launching the new version of https://lexdao.org and our first "certified" dApp, a personal token factory. Visit the site to learn more about LexDAO, and othewise.... on to the personal tokens!
+One of our underlying goals at LexDAO is to develop a library of Web 3 tools we stand behind. Today we're launching the new version of https://lexdao.org and our first "certified" dApp, a [personal token factory](https://lexdao.org/#/personal-token). Visit the site to learn more about LexDAO, and othewise.... on to the personal tokens!
 
 ![](https://i.imgur.com/ViNTezq.png)
 
