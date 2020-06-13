@@ -25,17 +25,17 @@ Built on Web 3, these tokens are true digital property that can be sent anywhere
 
 This is a token factory built by legal engineers. We're built in a number of things to make the Personal Token easier and safer to use. Including:
 
-**Default Terms of Service**
+**Default Terms of Service:**
 If this personal token economy is ever going to work, it needs to play nice with the existing business and legal structures. In the real world, consultants use engagement agreements, and terms of service to protect themselves against all kinds of things. These agreements set expectations, and also the understanding of what happens if something goes wrong. This is what we call "legal predictability."
 
 If you're a consultant and already have docs for this, 👍 you can use your URL. If not our dApp will automatically generate a TOS document for you, and attach it to your token Smart Contract. Becuase our dApp does this we're able to say that your token will always fall under the protection of meatspace laws. Worst case, you can bring in the lawyers. Although we sure how we can all get along better than that.
 
-**Dispute Resolution**
+**Dispute Resolution:**
 Alas, sometimes we won't get along. And no one *actually* wants to bring in the lawyers. Even with a contract, things still go wrong. This is why we've built in LexDAO powered dispute resolution. 
 
 If anything goes wrong with your token, LexDAO is able to pause your token contract, and arbitrate the dispute as a DAO. (But only via DAO vote.)
 
-**Stardardized Values**
+**Stardardized Values:**
 Simply put, this means we've made a bunch of other choices for simplicity and legal interoperability. Here's what they are:
 * 1 Token = 1 Minute of Your Time 
 * Initial Offering: 60,000 Tokens (1,000 Hrs)
@@ -44,13 +44,13 @@ Simply put, this means we've made a bunch of other choices for simplicity and le
 * LexDAO Fee: .0009 ETH
 
 ## Why Standardized Values?
-**Easy of use.**
+**Easy of use:**
 We think a minute is the most competent atomic unit of a consulting relationship. (And really, the only thing of real value in the world, but that's a philosophy lecture.) Our scheme aims to deal with minimum practical decimal places. An hour is 60 tokens. That's our starting scheme.
 
-**Fungibility.** 
+**Fungibility:** 
 When we get to a point of swapping personal tokens, having standard terms and standard units of measurement will make personal token swaps as easy as cash. Six decimal places gives us pretty good prescicion in streaming, while still being readable on a damn device. 😎
 
-**Fee**
+**Fee:**- 
 We built this. We keep it ship shape. You can throw us a .0009 ETH bone, no?d
 
 ## Mint My Token Already
