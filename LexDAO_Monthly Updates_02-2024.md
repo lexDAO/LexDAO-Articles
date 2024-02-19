@@ -22,5 +22,4 @@ The conversation starts with a discussion on the implications of taxable events 
 
 If you are looking to start a DAO style organization, this is a great thought starter for how to consider planning around tax structures in how to manage your liability.  Feel free to listen and please join us at our next session in a few weeks.
 
-```<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/d28g7Qhd0O">https://t.co/d28g7Qhd0O</a></p>&mdash; LexDAO (@lex_DAO) <a href="https://twitter.com/lex_DAO/status/1757072866032435229?ref_src=twsrc%5Etfw">February 12, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-```
+<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/d28g7Qhd0O">https://t.co/d28g7Qhd0O</a></p>&mdash; LexDAO (@lex_DAO) <a href="https://twitter.com/lex_DAO/status/1757072866032435229?ref_src=twsrc%5Etfw">February 12, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
