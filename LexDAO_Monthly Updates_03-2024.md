@@ -16,9 +16,40 @@ As part of this token drop, the Operating Committee has also suggested that we b
 
 Be on the lookout for the final draft of the budget which will be up for Snapshot vote in the coming weeks.  
 
-## Membership Drive
-LexDAO is tracking to garner 250 paid memberships by the end of 2024.  This is a big goal but we are working our way toward it step by step.  As we continue to embark on the philosophy of Law as a Public Good, we hope that those around the community will continue to support the organization and its future development.  Part of this initiative will be centered around our ongoing presence at in-person events throughout the year where we will aim to put on events and commentary including exclusive content and networking opportunities.  Please continued to support these initiatives and consider joining at lexdao.org/membership.
+## Simplifing Proposals
+As an ancillary task, @drllau has a [template](https://github.com/lexDAO/DAO-Proposals/blob/drllau-patch-1/template.md) for grant proposals. The key result will be sufficient outline for the squabble of legal engineersr to give the context (for snapshot voting) whilst linking to discussion points and project milestones within github repo. 
 
+```mermaid
+sequenceDiagram
+    participant discord
+    participant github
+    participant snapshot
+    discord->>discord:  discussion & assemble squab
+    discord->>github:   grant AMA (pass temp check)
+    github->>github:    formalise roles, task breakdown
+    github->>discord:   seek alphaTesters + scruMaster
+    discord->>snapshot: scrum to assemble proj milestones (populate template)
+    snapshot->>snapshot:token curated registry (voting)
+    snapshot->>github:  funds escrowed, risk monitoring
+    loop Sprints & Hackathons
+        github->>discord:   team formalised, alpha/beta testing
+        Note right of discord:  members can chip in extra resources (time/talent)
+        discord->>github:   issues / wiki (doc) / ref implementation
+    end
+    github->>github:    go-no-go deployment
+    Note right of discord:  scruMaster to temp-check milestone completion (polls)
+    snapshot->>discord: clawback / badleaver provisions (upon petition)
+```
+The objective is to have sufficient info to fit within 3-5 year horizon roadmap yet **defer detailed workup** until a temperature check to gather sufficient momentum for formal allocation of (matching) resources and delegation for monitoring milestones.
+
+## Membership Drive
+LexDAO is tracking to garner 250 paid memberships by the end of 2024.  This is a big goal but we are working our way toward it step by step.  As we continue to embark on the philosophy of _Law as a Public Good_, we hope that those around the community will continue to support the organization and its future development.  Part of this initiative will be centered around our ongoing presence at in-person events throughout the year where we will aim to put on events and commentary including exclusive content and networking opportunities.  Please continued to support these initiatives and consider joining at lexdao.org/membership.
+
+As part of delivering more value to our paid members, we are experimenting with
+1. more topical and focused study-groups (4th April session on [Wyoming DUNA]https://discord.com/events/682960432272506907/1221887409764040825);
+2. pathway to LEETH certification including (l)extern [legal clinic](https://discuss.octant.app/t/lexdao-law-is-a-public-good/271) and priority placement for legal-engineering work;
+3. DAO governance case-studies published in journals with citation counts.
+ 
 ## Network Infrastructure
 One of the projects which has remained on hold for some time now and is being actively restarted is the deployment of a network infrastructure.  We have partnered with Hats protocol to help build on top of the existing ERC-721 membership token deployed earlier this year through Unlock Protocol.  Hats Protocol allows us to create a nested permission tree which will allow for permissions to various parts of the LexDAO network.  It will also help us to govern treasuries appropriately and to allow committees the autonomy to act on the DAO's behalf in their individual spheres of influence.  
 
@@ -27,9 +58,12 @@ We are currently concepting a first draft of this network setup which will hopef
 ## Study Group
 Paolo Gangi has been hard at work setting up our next riviting Study Group discussion on DUNA (Decentralized Unincorporated Non-profit Association) organizational models with some incredible speakers.  We've been able to secure representation from David Kerr and Michael Jennings of A16Z as well as a long time LexDAO LEETH holder Jordan Teague along with JupiterBlock.  We expect this to be an intellectually stimulating and informed conversation around the benefits and risks associated with this type of U.S. Legal structure both nationally and abroad.  If you would like a little pre-read materials, please check out [this article](https://a16zcrypto.com/posts/article/duna-for-daos/) by David and Michael.  Please join us on April 4th at 10AM PST.  The link will be posted in our Discord.
 
-
-
-
+## Member Activity/Posts
+Legal engineering builds bridges between wet-ink and firm code contracts, and as practitioners, we need to practice what we preach. 
+- @ross has published a [white paper](https://lexcuria.eth.limo/) on ADR; 
+- @drllau - article on Creative Commons rights expression language
+- @g5mpartner - article on psychographic indicators 
+- ???
 
 
 
