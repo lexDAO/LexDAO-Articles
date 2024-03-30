@@ -17,7 +17,7 @@ As part of this token drop, the Operating Committee has also suggested that we b
 Be on the lookout for the final draft of the budget which will be up for Snapshot vote in the coming weeks.  
 
 ## Simplifing Proposals
-As an ancillary task, @drllau has a [template](https://github.com/lexDAO/DAO-Proposals/blob/drllau-patch-1/template.md) for grant proposals. The key result will be sufficient outline for the squabble of legal engineersr to give the context (for snapshot voting) whilst linking to discussion points and project milestones within github [repo](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects) (history of deliberation). 
+As an ancillary task, @drllau has a [template](https://github.com/lexDAO/DAO-Proposals/blob/drllau-patch-1/template.md) for grant proposals. The key result will be sufficient outline for the squabble of legal engineers to give the context (for snapshot voting) whilst linking to discussion points and project milestones within github [repo](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects) (history of deliberation). 
 
 ```mermaid
 sequenceDiagram
@@ -46,27 +46,30 @@ The objective is to have sufficient info to fit within 3-5 year horizon roadmap 
 ## Membership Drive
 LexDAO is tracking to garner 250 paid memberships by the end of 2024.  This is a big goal but we are working our way toward it step by step.  As we continue to embark on the philosophy of _Law as a Public Good_, we hope that those around the community will continue to support the organization and its future development.  Part of this initiative will be centered around our ongoing presence at in-person events throughout the year where we will aim to put on events and commentary including exclusive content and networking opportunities.  Please continued to support these initiatives and consider joining at lexdao.org/membership.
 
-As part of delivering more value to our paid members, we are experimenting with
+As part of delivering more value to our paid members, we are experimenting with:
 1. more topical and focused study-groups (4th April session on [Wyoming DUNA](https://discord.com/events/682960432272506907/1221887409764040825);
 2. pathway to LEETH certification including (l)extern [legal clinic](https://discuss.octant.app/t/lexdao-law-is-a-public-good/271) and priority placement for legal-engineering work;
-3. DAO governance case-studies published in journals with citation counts.
- 
+3. DAO governance case-studies published in journals or magazine with citation counts.
+
 ## Network Infrastructure
 One of the projects which has remained on hold for some time now and is being actively restarted is the deployment of a network infrastructure.  We have partnered with [Hats protocol](https://www.youtube.com/watch?v=f0830UGgjWU) to help build on top of the existing ERC-721 membership token deployed earlier this year through Unlock Protocol.  Hats Protocol allows us to create a nested permission tree which will allow for permissions to various parts of the LexDAO network.  It will also help us to govern treasuries appropriately and to allow committees the autonomy to act on the DAO's behalf in their individual spheres of influence.  
 
 We are currently concepting a first draft of this network setup which will hopefully be ready for alpha testing before the end of April.  There will be working groups set up to manage the deployment of this network and to debate the structure in the coming weeks which we encourage members to participate in.  This will help reshape the DAO and will be a significant step to our local implementation of the concept of Code is Law.
 
 ## Study Group
-Paolo Gangi has been hard at work setting up our next riviting Study Group discussion on DUNA (Decentralized Unincorporated Non-profit Association) organizational models with some incredible speakers.  A controversial topic, we've been able to secure representation from David Kerr and Michael Jennings of A16Z as well as a long time LexDAO LEETH holder Jordan Teague along with JupiterBlock.  We expect this to be an intellectually stimulating and informed conversation around the benefits and risks associated with this type of U.S. Legal structure both nationally and abroad.  If you would like a little pre-read materials, please check out [this article](https://a16zcrypto.com/posts/article/duna-for-daos/) by David and Michael.  Please join us on April 4th at 10AM PST.  The link will be posted in our Discord.
+Paolo Gangi (@pmgangi) has been hard at work setting up our next riveting Study Group discussion on DUNA (Decentralized Unincorporated Non-profit Association) [^1] organizational models with some incredible speakers.  A controversial topic, we've been able to secure representation from David Kerr and Michael Jennings of A16Z as well as a long time LexDAO LEETH holder Jordan Teague along with JupiterBlock.  We expect this to be an intellectually stimulating and informed conversation around the benefits and risks associated with this type of U.S. Legal structure both nationally and abroad.  If you would like a little pre-read materials, please check out [this article](https://a16zcrypto.com/posts/article/duna-for-daos/) by David and Michael.  Please join us on April 4th at 10AM PST.  The link will be posted in our Discord.
+
+## (L)expert Mentors sought
+The application for LexDAO trademark has been refused and we will be **crowd-sourcing a rebuttal** to the USPTO. This is an excellent opportunity for those (l)externs working for membership to practice the fine and subtle art of wrangling administrative appeals. This task is suitable for non-lawyers as it
+- steps you through gathering evidence (usage of trademark);
+- understanding how to cite caselaw, in this example TRIPS;
+- and how to structure a multi-prong argument but without the stress of attending court.
+
+We are seeking member mentors willing to answer a few questions over a weekend and give **gentle guidance as to their superior wrangling skills** (advocacy as art). There may be a surprise gift for the most valued participant.
 
 ## Member Activity/Posts
 Legal engineering builds bridges between wet-ink and firm code contracts, and as practitioners, we need to practice what we preach. 
-- @ross has published a [lite paper](https://lexcuria.eth.limo/) on ADR [^1]; 
-- @drllau - [article](https://paragraph.xyz/@developersguild/preview/7dYXMPaWaXRdq46OmvEL) on Creative Commons rights expression language;
-- @g5mpartner - [article]() on psychographic indicators;
-- @shaswata - linkedin [post](https://www.linkedin.com/posts/shaswatakapat_cryptoassets-judgment-sec-activity-7175734893031636992-OCmi) comparing expansive regulatory action vs a narrow court defeat on classication of financial product.
 
-[^1]: Ross Campbell (Mar 2024), _CURIA: Curated online legal services_
 > Curia is a proposed onchain protocol for selecting qualified custodians and dispute resolution services to help secure tokenized assets. It anticipates and provides
 an account-abstraction convenience to install supervision over transactions more
 directly than other alternatives. In this manner, Curia does not seek to interrupt
@@ -74,5 +77,10 @@ the base layer or promote a private approach to legal finality on the blockchain
 Curia instead represents an opt-in and free market system for more legal inputs to
 primarily code-based systems.
 
+- @ross has published a [lite paper](https://lexcuria.eth.limo/) (abstract above) on ADR [^2]; 
+- @drllau - [article](https://paragraph.xyz/@developersguild/preview/7dYXMPaWaXRdq46OmvEL) on Creative Commons rights expression language;
+- @shaswata - linkedin [post](https://www.linkedin.com/posts/shaswatakapat_cryptoassets-judgment-sec-activity-7175734893031636992-OCmi) comparing expansive regulatory action vs a narrow court defeat on classication of financial product.
 
+[^1]: 67th Legislature of the State of Wyoming (Mar 2024), _SF0050 - Unincorporated nonprofit DAO's_. (W.S. 17‑32‑101 through 17‑32‑129) [link](https://www.wyoleg.gov/Legislation/2024/SF0050)
 
+[^2]: Ross Campbell (Mar 2024), _CURIA: Curated online legal services_ [link](https://lexcuria.eth.limo/)
