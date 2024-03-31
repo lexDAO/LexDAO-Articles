@@ -17,7 +17,7 @@ As part of this token drop, the Operating Committee has also suggested that we b
 Be on the lookout for the final draft of the budget which will be up for Snapshot vote in the coming weeks.  
 
 ## Simplifing Proposals
-As an ancillary task, @drllau has a [template](https://github.com/lexDAO/DAO-Proposals/blob/drllau-patch-1/template.md) for grant proposals. The key result will be sufficient outline for the squabble of legal engineersr to give the context (for snapshot voting) whilst linking to discussion points and project milestones within github [repo](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects) (history of deliberation). 
+As an ancillary task, @drllau has a [template](https://github.com/lexDAO/DAO-Proposals/blob/drllau-patch-1/template.md) for _multi-season_ grant proposals (simple reimbursements/requests remain unchanged). The key result will be sufficient outline for the squabble of legal engineersr to give the context (for snapshot voting) whilst linking to discussion points and project milestones within github [repo](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects) (history of deliberation). 
 
 ```mermaid
 sequenceDiagram
