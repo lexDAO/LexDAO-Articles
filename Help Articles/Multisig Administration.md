@@ -66,6 +66,14 @@ Use cases
 <details><summary>Wrong unit</summary>wETH as recipient token</details>
 
 
-### Step 5 - Exception atypical errors
+### Step 5 - Debugging atypical errors
 
-[ ] Is there anomalous activity which may be a phishing attack?
+> [!WaRNING]
+> Is there anomalous activity which may be a phishing attack?
+
+![wallet connect]([https://platonnetwork.github.io/docs/en/assets/images/walletconnect-header-efbfd1fbd6de5bd770cf2f7e91d5cd7a.png](https://platonnetwork.github.io/docs/en/assets/images/establishing-connection-121e17f010e4b61a7995b823bd590327.png))
+Look at the actual wallet connect [protocol](https://platonnetwork.github.io/docs/en/walletconnect_tutorial/) URI
+
+`wc:84d75e28f2f6b0516ccfcf0979e99ff88d8aa24163d1f6a18333385e43311221@2?relay-protocol=irn&symKey=374557a4d0e58edbc27259202368f403c0994a15f65215ed4672ca77e46e67eb`
+
+Missing cookies ... sometimes the site might be expecting secret session info which is not in your current window.
