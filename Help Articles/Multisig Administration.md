@@ -8,40 +8,60 @@ timeline
     : {due process}
     : issued access to multisig wallet (with optional conditions)
     : document the wallet as Corrigenda to the grant proposal
-  section this step
+  section Copyright (details below)
     Acquire Title : 1. identify NFT
         : 2. connect multisig wallet
         : 3. confirm and await threshold
+    Acquire Waiver : look for commercial license (not personal use)
+        : ask GC for tmp credit card
   section Digital Asset accounting
     Post Acquisition : add documentation to repo
         : special notes if bailor (physical item)
+        : save license/waiver in ???folder
 ```
+
+----
+> [!WARNING]
+> Because LexDAO is an organisation, you cannot use personal licenses/waivers for 3rd party imagery or graphics im articles
+> Because audits are random, your sponsor must instruct you on the necessary procedures (it'd look silly for legal engineer to not engineer their own legals)
+
 Use cases
 1. Buying base NFT from OpenSea
-2. Buying licenses /tba/
+2. Buying non-personnal-use graphics /tba/
 3. ... ?
 
 ## Buying NFT from OpenSea
 ### Step 1 - Get the wallet connect link
-[ ] Go to OpenSea to the NFT you wish to purchase and enter the page for the NFT.  
-[ ] Click "login" at the top right corner.  
+[x] Go to OpenSea to the NFT you wish to purchase and enter the page for the NFT.  
+[x] Click "login" at the top right corner.  
 [ ] Select Wallet Connect from list.  When you do, a window with a QR code will appear.  
 [ ] In the top right corner of that window will be a "copy" icon.  Click it to add to your clipboard.
+![image](https://github.com/lexDAO/LexDAO-Articles/assets/14944510/555629c5-0d07-4f7a-ab08-8c024e991a56)
 
 ### Step 2 - Go to your SAFE account and log in
-[ ] Log into your SAFE and 
-[ ] click the dApp icon in the top menu bar.  It looks like a 'w'.  When you click this icon, 
+[x] Log into your SAFE (using addr given to you by GC or committee hat wearer)  
+[x] click the dApp icon in the top menu bar.  It looks like a 'w'.  When you click this icon, 
 [ ] a window will appear that shows an input field with the text 'wc' in the field.  
 [ ] Paste the link from OpenSea into this bar and hit the "Paste" button. This should now show a connection to the NFT you were looking at.
+![image](https://github.com/lexDAO/LexDAO-Articles/assets/14944510/5545971e-b30c-4aa5-97ef-7088ec9d26a9)
 
 ### Step 3 - Confirm the purchase
 [ ] From within the SAFE Application main browser window a message will appear that asks for confirmation of your multisig connection to OpenSea.  
 [ ] Sign it.  
 [ ] If you require multiple signatures it is **IMPORTANT** that this window will need to remain open until the threshold is met.  
+[ ] check the NFT finalisation via etherscan
 
 ### Step 4 - Catch typical errors
 
-I'm not actually buying an NFT in this case so I cannot continue further down the purchase path, but I imagine it will be pretty straight forward from here.  If you need additional help, the flow from this point forward should look like this artice from [Safe's Knowledge Base](https://help.safe.global/en/articles/108235-how-to-connect-a-safe-to-a-dapp-using-walletconnect)
+> [!TIP]
+> I'm not actually buying an NFT in this case so I cannot continue further down the purchase path, but I imagine it will be pretty straight forward from here.  If you need additional help, the flow from this point forward should look like this artice from [Safe's Knowledge Base](https://help.safe.global/en/articles/108235-how-to-connect-a-safe-to-a-dapp-using-walletconnect)
+
+<details><summary>connection request reset</summary>WTF?!?</details>
+
+<details><summary>unsupported chain</summary>OpenSea supports (as of 2q2024) 8 chains</details>
+
+<details><summary>Wrong unit</summary>wETH as recipient token</details>
+
 
 ### Step 5 - Exception atypical errors
 
