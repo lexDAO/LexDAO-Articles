@@ -2,19 +2,24 @@
 
 ```mermaid
 timeline
-  title Process to  acquire and register IP assets
-  section Grant approval
-    Prior : submit proposal if > threshold_high or use petty cash discretion < threshold_low 
+  title Process to  acquire and register LexDAO IP assets
+  section Monies approval
+    Prior : submit proposal if > threshold_high or use petty cash discretion if < threshold_low 
     : {due process}
-    : issued access to multisig wallet (with optional condition)
+    : issued access to multisig wallet (with optional conditions)
     : document the wallet as Corrigenda to the grant proposal
   section this step
-    Buy : 1. identify NFT
+    Acquire Title : 1. identify NFT
         : 2. connect multisig wallet
         : 3. confirm and await threshold
   section Digital Asset accounting
     Post Acquisition : add documentation to repo
+        : special notes if bailor (physical item)
 ```
+Use cases
+1. Buying base NFT from OpenSea
+2. Buying licenses /tba/
+3. ... ?
 
 ## Buying NFT from OpenSea
 ### Step 1 - Get the wallet connect link
