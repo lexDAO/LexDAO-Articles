@@ -56,6 +56,9 @@ Use cases
 > [!TIP]
 > I'm not actually buying an NFT in this case so I cannot continue further down the purchase path, but I imagine it will be pretty straight forward from here.  If you need additional help, the flow from this point forward should look like this artice from [Safe's Knowledge Base](https://help.safe.global/en/articles/108235-how-to-connect-a-safe-to-a-dapp-using-walletconnect)
 
+![image](https://github.com/lexDAO/LexDAO-Articles/assets/14944510/4fc5334f-7652-40cd-9e85-87f54f93c812)
+<details><summary>connection rejected</summary>WTF?!?</details>
+
 <details><summary>connection request reset</summary>WTF?!?</details>
 
 <details><summary>unsupported chain</summary>OpenSea supports (as of 2q2024) 8 chains</details>
