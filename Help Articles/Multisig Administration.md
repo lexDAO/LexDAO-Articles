@@ -51,7 +51,7 @@ Use cases
 [ ] If you require multiple signatures it is **IMPORTANT** that this window will need to remain open until the threshold is met.  
 [ ] check the NFT finalisation via etherscan
 
-### Step 4 - Catch typical errors
+### Step 4 - Catch typical errors /tbd/
 
 > [!TIP]
 > I'm not actually buying an NFT in this case so I cannot continue further down the purchase path, but I imagine it will be pretty straight forward from here.  If you need additional help, the flow from this point forward should look like this artice from [Safe's Knowledge Base](https://help.safe.global/en/articles/108235-how-to-connect-a-safe-to-a-dapp-using-walletconnect)
@@ -63,7 +63,7 @@ Use cases
 
 <details><summary>unsupported chain</summary>OpenSea supports (as of 2q2024) 8 chains</details>
 
-<details><summary>Wrong unit</summary>wETH as recipient token</details>
+<details><summary>wrong currency unit</summary>wETH as recipient token</details>
 
 
 ### Step 5 - Debugging atypical errors
@@ -77,3 +77,7 @@ Look at the actual wallet connect [protocol](https://platonnetwork.github.io/doc
 `wc:84d75e28f2f6b0516ccfcf0979e99ff88d8aa24163d1f6a18333385e43311221@2?relay-protocol=irn&symKey=374557a4d0e58edbc27259202368f403c0994a15f65215ed4672ca77e46e67eb`
 
 Missing cookies ... sometimes the site might be expecting secret session info which is not in your current window.
+
+### Step 6 - RightClickSave
+
+Let the mages [sort](https://docs.axelar.dev/dev/general-message-passing/overview) it out.
