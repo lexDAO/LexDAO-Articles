@@ -4,6 +4,32 @@ Currently all articles are published live on our Substack integration for LexDAO
 
 In preparation for publication, as a repository of ideas and content, and as a potential place where members can eventually collaborate on publications, we've set this folder up to house different content for Articles.  
 
+```mermaid
+---
+title: Editorial Process for Submission
+---
+gitGraph
+  commit id: "New month"
+  commit id: "/Submissions"
+  branch article_idea
+  checkout article_idea
+  commit id: "draft" tag: "... as new branch"
+  checkout main
+  commit id: "other contrib"
+  checkout article_idea
+  branch co_author
+  checkout co_author
+  commit id: "suggestion"
+  checkout article_idea
+  commit id: "rejected"
+  checkout main
+  merge article_idea id: "Pull Request" tag: "accepted" type: HIGHLIGHT
+  checkout main
+  commit id: "pubish"
+  checkout co_author
+  commit id: "response as new article" type: REVERSE
+```
+
 ## Process
 When submitting articles for review, please go into the appropriate folder for the project you are submitting to, and place your file inside the **Submitted** directory.  
 
