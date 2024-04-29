@@ -13,7 +13,7 @@ We are calling our guild of legal engineers and allies to crowdsource a response
 ![image](https://github.com/lexDAO/LexDAO-Articles/assets/14944510/7cc7babe-a47a-429a-bd12-400f2c0250bd)
 
 ## Community Event
-![image](https://github.com/lexDAO/LexDAO-Articles/assets/14944510/4c93f76f-dc29-408b-95eb-b92b82e944bf)
+![image](./LexDAO%20RfC.png)
 
 In addition we will be hosting a number of [events](https://hackmd.io/OG98GeTUQhaSkN07-EaYmA) to demonstrate law as public good:
 - reprise of the Wyoming DUNA study session;
