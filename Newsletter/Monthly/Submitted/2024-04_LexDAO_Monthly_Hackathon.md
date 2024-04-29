@@ -1,5 +1,5 @@
-# Adventure, Glory, Loot* - Hackathon 10-12th May
-* Prize for most valued mentor from a prominent open source advocate
+# Adventure, Glory, Loot^ - Hackathon 10-12th May
+^ Prize for most valued mentor from a prominent open source advocate
 
 ## Act I - Missing in Action
 > 🚧 The misty shrouded island ahead doesn't come any closer ...  inside the bottle is a note
