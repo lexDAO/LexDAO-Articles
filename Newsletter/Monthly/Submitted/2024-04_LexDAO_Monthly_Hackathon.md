@@ -1,6 +1,12 @@
 # Adventure, Glory, Loot* - Hackathon 10-12th May
 * Prize for most valued mentor from a prominent open source advocate
 
+## Act I - Missing in Action
+> 🚧 The misty shrouded island ahead doesn't come any closer ...  inside the bottle is a note
+> **危机** **Gritar** **मदद** **Emergency**
+> 
+> The Le⚔DAO flag is trapped in the land of sha🅓🅞🅦. We 🙏 for the chosen one to form a rescue party b4 this evil sprite devours our beloved symbol of resistance ⚔ and departs forever into cursed lands (6 Jun). Draw upon the summoning circle 🕸️ to call forth leXpunk Army and you will be blessed by the POAP.
+
 ## USPTO has rejected namemark of **LexDAO**
 We are calling our guild of legal engineers and allies to crowdsource a response. This is an excellent opportunity to practice your argumentative skills as its is an administrative appeal without the pressure of a court case. We have previously submitted joint [commentary](https://wyoleg.gov/InterimCommittee/2022/S19-2022012412-03LexDAOMaterials.pdf) to the Wyoming legislative committees and your name will be attached to the public record at USPTO to show off your ability. As the main goal is to gather evidence (specimens) and craft an argument, it is suited for non-lawyers to get taste of how appeals are written.
 
