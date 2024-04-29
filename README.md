@@ -43,4 +43,6 @@ When submitting your articles, you should include the following naming conventio
     - For example: A monthly article submission in Jan 2024 by cimply should look like this: 2024-01_LexDAO_Monthly_Cimply.md
 
  ### Format
- All articles should be properly formatted using markdown and must utilize heading structures where appropriate.  
+ All articles should be properly formatted using markdown and must utilize heading structures where appropriate. [Citations](https://guides.library.ubc.ca/legalcitation/intlaw) using the [^1] shortcut should preferentially reference primary/secondary sources in the /tba @Fortunado/ style
+
+[^1]: Footnotes at bottom of article in _style_ /tba/
