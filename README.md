@@ -33,7 +33,7 @@ gitGraph
 ## Process
 When submitting articles for review, please go into the appropriate folder for the project you are submitting to, and place your file inside the **Submitted** directory.  
 
-It is **important** that you create a branch that clearly indicates who you are when doing this and that you initiate a pull request.  When you commit your files, we ask that you also please "sign" your commits.  
+It is **important** that you create a branch that clearly indicates who you are when doing this and that you initiate a pull request.  If you intend for multiple co-authors, then sync from github to hackMD as collaborative editor with word level commentary. When you commit your files, we ask that you also please "sign" your commits (helps in tracking authorship).  
 
 Articles that are approved will be moved by the editors into the appropriate approved folders.
 
