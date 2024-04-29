@@ -20,7 +20,7 @@ In addition we will be hosting a number of [events](https://hackmd.io/OG98GeTUQh
 - announcements by the Communications committee;
 - Birds of a Feather session to compare machine learning for legal engineers.
 
-Please contact @paolo if you wish togive a brief talk about any side-projects. Cut off dates are
+Please contact @paolo (PM Gandi) if you wish to give a brief talk about any side-projects. Cut off dates are:
 1. Weds May 8th for Mentors (@drllau) and nominated talks;
 2. Thu May 9th for responding to the [Request for Quote](https://discord.com/events/682960432272506907/1228902152202878977) as participants
 3. Fri May 10th as [guests](https://discord.com/events/682960432272506907/1228902856594292757) to observe hackathon (limits on sound stage)
