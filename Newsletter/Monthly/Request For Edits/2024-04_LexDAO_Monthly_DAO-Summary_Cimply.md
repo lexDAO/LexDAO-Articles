@@ -19,6 +19,10 @@ As part of our efforts to continue managing the DAO, GoldenLady has been nominat
 ![RFC for LexDAO Hackaton](./LexDAO%20RfC.png)
 Our legacy LEETH Holder extrodinaire, Dr. Lau, has put together an excellent Hackathon for our membership to build our appeal to the USPTO for trademark recognition.  As many of your know, the USPTO rejected our initial application and we believe we have the grounds to contest this with strong research and a knack for filing process.  In his words, we are calling our guild of legal engineers and allies to crowdsource a response. This is an excellent opportunity to practice your argumentative skills as it is an administrative appeal without the pressure of a court case. We have previously submitted joint commentary to the Wyoming legislative committees and your name will be attached to the public record at USPTO to show off your ability. As the main goal is to gather evidence (specimens) and craft an argument, it is suited for non-lawyers to get taste of how appeals are written.
 
+Read the entire writeup [here](https://github.com/lexDAO/LexDAO-Articles/blob/master/Newsletter/Monthly/Submitted/2024-04_LexDAO_Monthly_Hackathon_drllau.md)
+
+
+
 ### Details
 #### Hackathon Date: 
 May 10th-May 12th
