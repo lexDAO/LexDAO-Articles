@@ -14,7 +14,7 @@ mindmap
         historical(historical)
         review("**reflective**")
         Le✂️DAO formal
-          depository (evidence)
+          evidence(narrative)
     expository
         how2(how2 pictorial)
         anal("analytical / **critical**")
@@ -23,7 +23,7 @@ mindmap
     descriptive
         docu(docuDrama)
         Le🎌DAO formal
-          hypo("**hypothetical**)
+          hypo("**hypothetical**")
 ```
 [^1]: University of Sydney, Writing [link](https://www.sydney.edu.au/students/writing/types-of-academic-writing.html)
 
@@ -36,6 +36,24 @@ This is a formal way to structure an argument along with the evidentary common p
 ## Analytical
 
 LexDAO we train up critical thinking skills so you can (naturally) destroy your critics in a battle of wits. This can only be done by exercising your skills and spotting flaws (or fallacies) in others.
+
+### Timeline (also depository)
+
+```mermaid
+gitGraph
+  commit id: "time" tag: "on or around date ..."
+  commit id: "location"
+  commit id: "event 1"
+  branch alleged
+    commit id: "event 2"
+    commit id: "event 3"
+    commit id: "event 4"
+    branch witness
+      commit id: "event 4"
+  checkout main
+    commit id: "conclude"
+    merge witness
+```
 
 ### Categorisation ➡️ Typology
 
