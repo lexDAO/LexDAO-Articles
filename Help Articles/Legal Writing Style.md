@@ -14,7 +14,7 @@ mindmap
         historical(historical)
         review("**reflective**")
         Le✂️DAO formal
-          evidence(narrative)
+          evidence(evidentory)
     expository
         how2(how2 pictorial)
         anal("analytical / **critical**")
