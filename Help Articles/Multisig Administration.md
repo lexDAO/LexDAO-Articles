@@ -69,6 +69,8 @@ Use cases
 <details><summary>insufficient gas</summary><br> You need at least 1-2 cents to sign a transaction. This becomes a `lack of nail, battle / message / horse / shoe was lost` problem. Typically bridging takes >$15-20 which for 2 cents is overkill. Also despite documentation OP is not accepted as substitute, you require ETH. solution, get a mate to charity-drop a dollar or two to get started on the right chain (Optimism). Recommended action for onboarding OC new members is to airdrop $5 in gas (perhaps testnet facet) to get familiar with all the different (and UX complicated) tools. Note that Metamask charges nearly 1% in transaction fees so try and use something cheaper like Uniswap. 
 </details>
 
+<details><summary>ETH doesn't appear</summary>Cross chains are not well recognised by Metamask, you have to [manually](https://investorsupport.securitize.io/hc/en-us/articles/360050816994-Adding-a-token-to-the-MetaMask-wallet-view) import the ETH token from the transaction contract address. This should either be given direct by sender or search etherscan for the transaction and grab the contract address</details>
+
 ![image](https://github.com/lexDAO/LexDAO-Articles/assets/14944510/6e7b7295-b091-4a3c-b268-d7ca2af77cf4)
 
 ### Step 5 - Debugging atypical errors
