@@ -48,7 +48,8 @@ Use cases
 ### Step 3 - Confirm the purchase
 [ ] From within the SAFE Application main browser window a message will appear that asks for confirmation of your multisig connection to OpenSea.  
 [ ] Sign it.  
-[ ] If you require multiple signatures it is **IMPORTANT** that this window will need to remain open until the threshold is met.  
+[ ] If you require multiple signatures  in real-time it is **IMPORTANT** that this window will need to remain open until the threshold is met. 
+[ ] Alternative if you require multiple signers, its best to batch up the send/receive transaction so that it gets signed async.
 [ ] check the NFT finalisation via etherscan
 
 ### Step 4 - Catch typical errors /tbd/
@@ -57,14 +58,18 @@ Use cases
 > I'm not actually buying an NFT in this case so I cannot continue further down the purchase path, but I imagine it will be pretty straight forward from here.  If you need additional help, the flow from this point forward should look like this artice from [Safe's Knowledge Base](https://help.safe.global/en/articles/108235-how-to-connect-a-safe-to-a-dapp-using-walletconnect)
 
 ![image](https://github.com/lexDAO/LexDAO-Articles/assets/14944510/4fc5334f-7652-40cd-9e85-87f54f93c812)
-<details><summary>connection rejected</summary>WTF?!?</details>
+<details><summary>connection rejected</summary><br>This is because the (Metamask) wallet you initially connected to STARTED on the wrong chain and SAFE is not smart enough to detect when you changed. Solution is to disconnect the wallet, make ure Metamask has the right network (Optimism) with the correct address assigned to the multisig, then reconnect</details>
 
-<details><summary>connection request reset</summary>WTF?!?</details>
+<details><summary>connection request reset</summaryThere may be unsigned prior messages in the Metamask, make sure you sign the correct one by inspecting the message</details>
 
 <details><summary>unsupported chain</summary>OpenSea supports (as of 2q2024) 8 chains</details>
 
 <details><summary>wrong currency unit</summary>wETH as recipient token</details>
 
+<details><summary>insufficient gas</summary><br> You need at least 1-2 cents to sign a transaction. This becomes a `lack of nail, battle / message / horse / shoe was lost` problem. Typically bridging takes >$15-20 which for 2 cents is overkill. Also despite documentation OP is not accepted as substitute, you require ETH. solution, get a mate to charity-drop a dollar or two to get started on the right chain (Optimism). Recommended action for onboarding OC new members is to airdrop $5 in gas (perhaps testnet facet) to get familiar with all the different (and UX complicated) tools. Note that Metamask charges nearly 1% in transaction fees so try and use something cheaper like Uniswap. 
+</details>
+
+![image](https://github.com/lexDAO/LexDAO-Articles/assets/14944510/6e7b7295-b091-4a3c-b268-d7ca2af77cf4)
 
 ### Step 5 - Debugging atypical errors
 
