@@ -1,4 +1,4 @@
-# Breakdown of Encouraged Modes
+# Breakdown of Modes
 
 Legal writing, especially legislation has their unique traits [^1], mostly grounded around arguments (there's a reason why its a squabble of legal engineers). When combined with software which is primarily expository (internal [easter eggs](http://catb.org/jargon/html/E/Easter-egg.html) aside) you will develop Scribe lvl 2+ skills and (hopefully) emerge with your own thought leadership (scribe lvl 3+) with signature visual style (xref RSAnimate series). Our concern is the _truth_ (or closest facsimile given distance of time and deliberate [obfuscation](https://www.inc-aus.com/kit-eaton/ftc-accuses-amazons-jeff-bezos-of-using-signals-disappearing-messages-for-discussing-competition.html)) so we leave descriptive hyperbole to hallucinary AI.
 
